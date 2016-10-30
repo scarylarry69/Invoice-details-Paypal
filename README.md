@@ -1,0 +1,2 @@
+# Invoice-details-Paypal
+https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=spS9X0AvDUUJCJ4bIG9bUDGFbaWhhEbCME0qf6-8lhLyDII8vbUaCHTxOf0&amp;dispatch=38ebb9cf0857de5aa44fd0183b7204ea000cee2a37114de132a2013be2d4354d4e2a2d2625667879
